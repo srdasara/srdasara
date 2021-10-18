@@ -2,7 +2,7 @@
 
 - 🔭 🇦🇶 I'm currently researching the ties between the surface ocean and lower atmosphere in the Southern Ocean! More specifically, my PhD work focuses on understanding patterns of high latitude tropospheric marine aerosol arising from biological and physical variables. I've also been uncovering the seasonal dynamics of primary producers and polar sea ice and how the environment of the western Antarctic Peninsula has been changing in the 21st century. I've had the amazing opportunity to conduct [field work as part of the Palmer Long-Term Ecological Research](http://pal.lternet.edu), which makes me really passionate about Antarctic studies. 
 - 🛰️ To do this work, I utilize multiple years of data from NASA Earth-observing satellites, particularly CALIPSO & MODIS, through which I'm able to examine patterns across the Southern Ocean. I also have a new upcomining project where I'll be using modeled data from the Biogeochemical Southern Ocean State Estimate to examine how changing sea ice conditions in the western Antarctic Peninsula influences primary producers. 
-- 🌱 Most of my coding expertise is in MATLAB, NCL, and I have some experience with R as well. I’m currently teaching myself SQL & Python!
+- 🌱 Most of my coding expertise is in MATLAB, and I have experience with NCL & R as well. I’m currently teaching myself SQL & Python!
 - ✍️ You can view an overview of my work & academic background on my [Linkedin](https://www.linkedin.com/in/srishti-dasarathy/). 
 - 👯 I’m looking to network and explore what a future career might look like! 
 - 😄 Pronouns: she / her
