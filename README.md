@@ -7,4 +7,4 @@
 - 👯 I’m looking to network and explore what a future career might look like! 
 - 😄 Pronouns: she / her
 - 💃 I can't sit still. Beyond my graduate study, I've also worked to represent the interests of students and been elected as Student Representative and later as Co-Chair of the SIO Graduate Student Council. I'm now learning outside of my role as a graduate student as the Scripps Industry Relations & Innovation Fellow at [startBlue](https://startblue.ucsd.edu)! 
-- 📫 Please reach out to me to network or collaborate at srdasara@ucsd.edu 
+- 📫 Reach out to me to network or collaborate at srdasara@ucsd.edu. I'd love to hear from you! 
