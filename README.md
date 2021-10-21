@@ -1,4 +1,4 @@
-### Hey there, I'm Srishti Dasarathy, PhD Candidate in the [Bowman Lab](https://www.polarmicrobes.org). We are part of the Integrative Oceanography Division at Scripps Institution of Oceanography 🌊
+### Hey there, I'm [Srishti Dasarathy](srdasara.github.io), PhD Candidate in the [Bowman Lab](https://www.polarmicrobes.org). We are part of the Integrative Oceanography Division at Scripps Institution of Oceanography 🌊
 - 😄 Pronouns: she / her
 
 - 🔭 🇦🇶 I'm currently researching ties between the surface ocean and lower atmosphere in the Southern Ocean! More specifically, my PhD work focuses on understanding patterns of high latitude tropospheric marine aerosol arising from biological and physical variables. I've also been uncovering the seasonal dynamics of primary producers and polar sea ice and how the environment of the western Antarctic Peninsula has been changing in the 21st century. I've had the amazing opportunity to conduct [field work as part of the Palmer Long-Term Ecological Research](http://pal.lternet.edu), which makes me really passionate about Antarctic studies. 
